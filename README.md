@@ -11,7 +11,7 @@ A simple and responsive shopping cart application built using React, enabling us
    git clone https://github.com/edwarquianzon/shopping-cart
 2. **Navigate to the Project Directory:**
    ```bash
-   gcd <project-directory>
+   cd shopping-cart
 3. **Install Dependencies:**
    ```bash
    npm install
