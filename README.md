@@ -9,3 +9,12 @@ A simple and responsive shopping cart application built using React, enabling us
    Use the following command to clone the project to your local machine:
    ```bash
    git clone <repository-url>
+2. **Navigate to the Project Directory:**
+   ```bash
+   gcd <project-directory>
+3. **Install Dependencies:**
+   ```bash
+   npm install
+4. **Start the Development Server:**
+   ```bash
+   npm start
