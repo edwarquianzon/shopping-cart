@@ -8,7 +8,7 @@ A simple and responsive shopping cart application built using React, enabling us
 1. **Clone the Repository:**
    Use the following command to clone the project to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/edwarquianzon/shopping-cart)
 2. **Navigate to the Project Directory:**
    ```bash
    gcd <project-directory>
