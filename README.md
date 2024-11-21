@@ -18,3 +18,29 @@ A simple and responsive shopping cart application built using React, enabling us
 4. **Start the Development Server:**
    ```bash
    npm start
+5. **Open the Application: Navigate to http://localhost:3000 in your browser to view the Shopping Cart app.**
+
+## **Libraries Used**
+Root
+├── React
+│   ├── react
+│   ├── react-dom
+│   └── react-scripts
+├── Styling
+│   ├── css-loader
+│   └── style-loader
+├── Tooling
+│   └── babel-loader
+└── Testing
+    ├── jest
+    └── react-testing-library
+
+## **Images of the Shopping Cart**
+![image](https://github.com/user-attachments/assets/3bf1d8cd-d813-4cea-8d0d-8c686e0f465a)
+![image](https://github.com/user-attachments/assets/a105f4fd-a92b-4b63-8011-36523fcf761b)
+![image](https://github.com/user-attachments/assets/152e0b57-bc70-47a5-8495-46c7bab7768a)
+
+
+
+
+
