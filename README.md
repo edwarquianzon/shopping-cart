@@ -39,10 +39,10 @@ Root
 │   ├── @eslint/js
 │   ├── globals
 │   └── @types/react
-├── TypeScript Support
-│   ├── @types/react-dom
-│   └── @types/react
-
+└── TypeScript Support
+    ├── @types/react-dom
+    └── @types/react
+```
 
 ## **Images of the Shopping Cart**
 ![Shopping Cart Screenshot 1](https://github.com/user-attachments/assets/3bf1d8cd-d813-4cea-8d0d-8c686e0f465a)
